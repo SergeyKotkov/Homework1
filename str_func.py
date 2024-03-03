@@ -1,2 +1,2 @@
-s = input()
-print(s.upper())
+def uppercase(str_input):
+    return str_input.upper()
